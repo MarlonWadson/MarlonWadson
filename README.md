@@ -1,7 +1,7 @@
 ## Opaaa devs, aqui é Marlon👋
 
 - 🌱 Atualmente, estou aprendendo Python e Java
-- 📫 Como me contatar: IG[marlonwadsonsantos]
+- 📫 Como me contatar: IG[<a href="marlonwadsonsantos">]
 
 <div>
   <a href="https://github.com/MarlonWadson">
